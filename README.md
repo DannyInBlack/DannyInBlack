@@ -1,16 +1,41 @@
 <h1> Return type error. Expected "cool_description" got "lame_programming_joke" instead. </h1>
 
-<!--
-**DannyInBlack/DannyInBlack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 CS major with 3.97 GPA.  
 
-Here are some ideas to get you started:
+😉 Definitely studying for the next programming competition.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🤯 List of languages and frameworks I know fairly well until now (Used them in a project):
+
+
+<ul>
+  <li> Python </li>
+  <li> C++ </li>
+  <li> C </li>
+  <li> HTML / CSS  </li>
+  <li> JavaScript / TypeScript </li>
+  <li> ReactJS </li>
+  <li> Flutter </li>
+  <li> PHP </li>
+  <li> Laravel </li>
+  <li> SQL (Oracle & MySQL) </li>
+  <li> Java / Javafx </li>
+  <li> I don't remember them all tbh </li>
+</ul>
+
+
+
+## Some projects I'm working on
+
+<br />
+<img src="preview.jpg" width="800px" />
+
+
+Screenshot of main page [^1].
+
+
+
+[^1]: A very alpha build of what I'm hoping to be a fully functional [website] (seproject123.netlify.app)that handles car services.
+
+
+
