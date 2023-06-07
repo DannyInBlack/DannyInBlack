@@ -28,10 +28,10 @@
 ## Some projects I'm working on
 
 <br />
-<img src="preview.jpg" width="800px" />
+<img src="preview.jpg" width="800px" style="border-radius: 10px"/>
 
 
-Screenshot of main page [^1].
+Screenshot of the SE project's main page [^1].
 
 
 
