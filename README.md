@@ -35,7 +35,7 @@ Screenshot of the SE project's main page [^1].
 
 
 
-[^1]: A very alpha build of what I'm hoping to be a fully functional [website](seproject123.netlify.app) that handles car services.
+[^1]: A very alpha build of what I'm hoping to be a fully functional [website](https://seproject123.netlify.app) that handles car services.
 
 
 
