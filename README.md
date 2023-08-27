@@ -1,6 +1,6 @@
-<h1> Return type error. Expected "cool_description" got "lame_programming_joke" instead. </h1>
+<h1> No more coding jokes - Danny. </h1>
 
-🤓 CS major with 3.97 GPA.  
+🤓 CS major with 3.98 GPA.  
 
 😉 Definitely studying for the next programming competition.
 
@@ -23,6 +23,10 @@
   <li> I don't remember them all tbh </li>
 </ul>
 
+## ECPC 2023
+(I'm the guy on the right)
+<br />
+<img src="image.png" width="800px" style="border-radius: 10px"/>
 
 
 ## Some projects I'm working on
