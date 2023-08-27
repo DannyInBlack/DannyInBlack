@@ -26,13 +26,15 @@
 ## ECPC 2023
 (I'm the guy on the right)
 <br />
-<img src="image.png" width="800px" style="border-radius: 10px"/>
+<div border-radius="10px">
+  <img src="image.png" width="800px"/>
+</div>
 
 
 ## Some projects I'm working on
 
 <br />
-<img src="preview.jpg" width="800px" style="border-radius: 10px"/>
+<img src="preview.jpg" width="800px" style="border: solid black 10px"/>
 
 
 Screenshot of the SE project's main page [^1].
