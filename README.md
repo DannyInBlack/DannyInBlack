@@ -24,7 +24,7 @@
 </ul>
 
 ## ECPC 2023
-(I'm the guy on the right)
+(I'm the guy on the right) <br/>
 <img src="ecpc.jpg" width="800px" style="border: solid black 10px"/>
 
 ## Some projects I'm working on
