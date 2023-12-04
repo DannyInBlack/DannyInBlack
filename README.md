@@ -23,13 +23,6 @@
   <li> I don't remember them all tbh </li>
 </ul>
 
-## ECPC 2023
-(I'm the guy on the right)
-<br />
-<div border-radius="10px">
-  <img src="image.png" width="800px"/>
-</div>
-
 
 ## Some projects I'm working on
 
