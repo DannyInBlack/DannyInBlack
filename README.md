@@ -23,6 +23,9 @@
   <li> I don't remember them all tbh </li>
 </ul>
 
+## ECPC 2023
+(I'm the guy on the right)
+<img src="ecpc.jpg" width="800px" style="border: solid black 10px"/>
 
 ## Some projects I'm working on
 
