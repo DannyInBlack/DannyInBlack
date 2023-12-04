@@ -34,14 +34,11 @@
 ## Some projects I'm working on
 
 <br />
-<img src="preview.jpg" width="800px" style="border: solid black 10px"/>
+<img src="mama-mia.png" width="800px" style="border: solid black 10px"/>
 
 
-Screenshot of the SE project's main page [^1].
+OpenGL game in c++ .
 
-
-
-[^1]: A very alpha build of what I'm hoping to be a fully functional [website](https://seproject123.netlify.app) that handles car services.
 
 
 
