@@ -20,7 +20,6 @@
   <li> Laravel </li>
   <li> SQL (Oracle & MySQL) </li>
   <li> Java / Javafx </li>
-  <li> I don't remember them all tbh </li>
 </ul>
 
 ## ECPC 2023
