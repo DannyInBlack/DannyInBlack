@@ -1,14 +1,11 @@
-<h1> No more coding jokes - Danny. </h1>
+<h1> Life after graduation is so fun - Danny. </h1>
 
-😉 Definitely studying for the next programming competition.
+Learning some advanced Linux tools!
 
-## Some projects I'm working on
+## Hello from Luxor, ACPC 2025
 
 <br />
-<img src="mama-mia.png" width="800px" style="border: solid black 10px"/>
-
-
-Super Mario recreated in OpenGL using c++ .
+<img src="webp_out.webp" width="800px" style="border: solid black 10px"/>
 
 
 
